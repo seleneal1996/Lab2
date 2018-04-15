@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1523769475 source:/home/selene/PROBLEM_SET2/PROBLEMA 5.3/main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+
